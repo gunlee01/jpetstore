@@ -15,9 +15,9 @@
  */
 package org.mybatis.jpetstore.domain;
 
-import java.io.Serializable;
-
 import net.sourceforge.stripes.validation.Validate;
+
+import java.io.Serializable;
 
 /**
  * @author Eduardo Macarron
